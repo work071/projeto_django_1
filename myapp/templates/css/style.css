@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+    text-align: justify;
+}
+
+header{
+    background-color: #1B512D;
+    padding: 10px 0 10px 40vh;
+    color: #C49A6C;
+}
+
+h2{
+    color: lightgreen;
+    margin: 10px 0 5px 10px;
+    font-size: 30px;
+}
+
+h3{
+    color: lightgreen;
+    margin: 10px 0 5px 30px;
+    font-size: 20px;
+}
+
+body{
+    background-color: #2D2D2D;
+    margin-bottom: 10vh;
+}
+
+article{
+    margin-left: 60px;
+    margin-right: 450px;
+    color: #C49A6C;
+    position:static;
+}
+
+.TextoTitulo{
+    margin-left: 10px;
+    margin-right: 450px;
+    color: #C49A6C;
+    
+}
+
+.Mapinhas{
+    width: 400px;
+    position: absolute;
+    margin-left: 92vh;
+    border-radius: 10px;
+}
+
+.fulline{
+    margin-left: 60px;
+    margin-right: 10px;
+    color: #C49A6C;
+    position:static;
+}
